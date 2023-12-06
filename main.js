@@ -1,6 +1,6 @@
 const NewsAPI = require('newsapi')
 const $ = require('jquery')
-const newsapi = new NewsAPI('8c74c39b58aa4088943515812d51f39b')
+const newsapi = new NewsAPI('API_KEY')
 let articles = null
 
 getNews('business')
