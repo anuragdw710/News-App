@@ -12,8 +12,8 @@ It leverages Electron.js for cross-platform compatibility, allowing users to sea
 
 ## Features
 
-- **Feature 1:** News feature in carious categaries
-- **Feature 2:** Seach functionalty
+- **Feature 1:** News featured in various categories 
+- **Feature 2:** Search functionality
 
 ## Installation
 
