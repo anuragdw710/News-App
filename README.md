@@ -1,7 +1,7 @@
 [screen-capture.webm](https://github.com/anuragdw710/News-App/assets/78266752/0b1da465-d4e1-4a97-9844-03e2ec0ff471)
 
 
-# Your Project Name
+# News App
 
 A cross-platform desktop application built with Electron.js, HTML, and CSS.
 
